@@ -2,7 +2,7 @@
 * @Author: DELL
 * @Date:   2017-09-29 18:36:06
 * @Last Modified by:   DELL
-* @Last Modified time: 2017-10-10 10:17:17
+* @Last Modified time: 2017-10-20 14:24:20
 */
 @font-face {
   font-family: 'iconfont';  /* project id 404188 */
@@ -476,7 +476,7 @@
 .danner-top-xia-img{
 	width: 1230px;
 	height: 512px;
-	background-color: blue;
+	/* background-color: blue; */
 	margin:0 auto;
 	
 }
@@ -644,7 +644,7 @@
 	background-color: white;
 }
 .danner-daohang16:hover.danner-daohang16 a{
-	color: #3fc8·1b1;
+	color: #3fc8b1;
 }
 .danner-daohang16:hover.danner-daohang16 a i{
 	color: #3fc8b1;
@@ -676,7 +676,7 @@
 	height: 480px;
 	/* background-color: red; */
 	position:fixed;
-	left:36px;
+	left:70px;
 	top: 0;
 	bottom: 0;
 	margin: auto;
@@ -1845,7 +1845,7 @@
 .dibu-top-bottom-left1-mao{
 	width: 70px;
 	height: 23px;
-	background-color: pink;
+	/* background-color: pink; */
 	margin-left: 80px;
 	margin-top: 41px;
 }
